@@ -1,5 +1,5 @@
 ### NAME: HARIHARAN.V
-### REG NO: 24002927
+### REG NO: 212224220032
 ### EXP NO 6: IMPLEMENTATION OF SERIAL IN SERIAL OUT SHIFT REGISTER USING VERILOG HDL
 
 ### **AIM:**
@@ -45,7 +45,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 
 ### **TIMING DIGRAMS FOR SISO Shift Register:**
-![siso waveform](https://github.com/user-attachments/assets/6cf3657d-59a1-468a-93fc-821999861153)
+<img width="1900" height="326" alt="image" src="https://github.com/user-attachments/assets/df62661c-f5e2-4577-959f-cbc34c7d3e59" />
 
 ### **RESULTS:**
 THE IMPLEMENTATION OF SERIAL-IN-SERIAL-OUT-SHIFTREGISTER IS TESTED AND VERIFIED
